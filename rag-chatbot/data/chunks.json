@@ -1,6 +1,0 @@
-[
-  "Apache Cassandra is a distributed NoSQL database designed for high availability and horizontal scalability.",
-  "Cassandra uses CQL (Cassandra Query Language), which looks similar to SQL but works on a wide-column architecture.",
-  "RAG stands for Retrieval Augmented Generation. It retrieves relevant data before sending context to an LLM.",
-  "Gemini is Google's large language model used for text generation and reasoning."
-]
